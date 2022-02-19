@@ -21,4 +21,4 @@ It return True/False as output
 # NOTE: '=' is assignment operator whereas '==' is comparison operator
 print( 5 ==5 )
 # It is assignment operator , not allowed
-print( 5 =5)
+# print( 5 =5)
